@@ -26,16 +26,16 @@ Some ow my own project
 
 For a complete list of my projects and clients, please visit my [website](https://www.fabiandarga.de).
 
-## Open Source Contributions
+### Open Source Contributions
 
 I only made a few smaller contributions. But I would like to do more, since I believe in the OS mindset.
 If you need help or know the perfect project for me, please text me.
 
-## Contact Me
+### Contact Me
 
 Feel free to reach out to me if you:
 - need a freelance developer
 - have questions about development or freelancing
 - need a sparring partner to learn and practice
 
-:wq  ;)
+:wq
