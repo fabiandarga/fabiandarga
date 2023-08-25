@@ -13,14 +13,14 @@ Hello there! I'm a passionate software developer with a love for specific progra
 
 ### Skills
 
-- Programming Languages: **JavaScript/Typescript, Python, PHP, Dart, Rust**
+- Programming Languages: **JavaScript/Typescript, Python, Java, Dart, Rust**
 - Technologies/Frameworks: **Vue.js, React.js, Svelte, Node + Express.js/Koa, Flutter, Flask, MongoDB, SQL**
 - Tools: **Git + GitHub/Gitlab, CircleCI, vim, aws, the internet**
 - Other: **Linux, Bash, regexp**
 
 ### Projects
 
-Some ow my own project
+Some of my own project
 
 - **[buy-a-box](https://www.buy-a-box.de)**: A price comparision website for Magic: The Gathering Products (Germany)
 
